@@ -1,0 +1,13 @@
+{
+  "tipoAccesoDatos": "firestore",
+  "tipoAccesoDatos2": "webapp",
+  "dominio": "amplitudmercado.com",
+  "correoContacto": "contacto@amplitudmercado.com",
+  "idAnalytics": "G-FDN459KWTP",
+  "aviso_": "No ha sido posible cargar correctamente los datos. Estamos trabajando para solucionarlo.",
+  "anuncio": {
+    "id": "api",
+    "mensaje": "Ya está disponible el API de datos de amplitud de mercado, haz click para más información.",
+    "ruta": "/api"
+  }
+}
